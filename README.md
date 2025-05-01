@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Power BI, Python, SQL, Excel, Machine Learning
+- 👀 Aspiring Data Science and Artificial Intelligence with Deep Learning Specialization
+- 🌱 I’m currently learning  Python, SQL, Excel, Machine Learning, DL
 - 📫 How to reach me ashwinipushkarrr@gmail.com
 
 - Connect with me:
